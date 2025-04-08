@@ -2,7 +2,25 @@
 
 Date: 30.07.2022
 
-To keep private
+NOTE: To keep private
+TODO:
+xx@xx CodeChallenge % tree
+.
+├── Infos.md
+├── app.py
+├── components
+│   ├── __pycache__
+│   │   └── components.cpython-39.pyc
+│   └── components.py
+├── prj_structure.py
+├── prj_structure.txt
+├── requirements.txt
+└── utils
+    ├── API_request.py
+    ├── __pycache__
+    │   ├── API_request.cpython-39.pyc
+    │   └── methods.cpython-39.pyc
+    └── methods.py
 
 Code Challenge Impuls
 
