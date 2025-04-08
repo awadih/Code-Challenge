@@ -2,27 +2,7 @@
 
 Date: 30.07.2022
 
-NOTE: To keep private
-TODO: (View this file in row format to see the files tree)
-xx@xx CodeChallenge % tree
-.
-├── Infos.md
-├── app.py
-├── components
-│   ├── __pycache__
-│   │   └── components.cpython-39.pyc
-│   └── components.py
-├── prj_structure.py
-├── prj_structure.txt
-├── requirements.txt
-└── utils
-    ├── API_request.py
-    ├── __pycache__
-    │   ├── API_request.cpython-39.pyc
-    │   └── methods.cpython-39.pyc
-    └── methods.py
-
-Code Challenge Impuls
+Code Challenge
 
 Integration von öffentlicher Wettervorhersage über API mit Python
 
@@ -51,6 +31,8 @@ Tipps und Hinweise:
 
 · Also Python Bibliotheken zur Einbindung von APIs sind zum Beispiel request oder aiohttp geeignet · API-Dokumentation: https://www.weatherapi.com/docs/
 
-Übergabe:
 
-· Entweder kannst du uns deinen Ordner als .zip Datei schicken oder mit uns ein Github Repository teilen
+NOTE: To keep private
+TODO: (View this file in row format to see the files tree)
+
+<img width="271" alt="screenshot" src="https://github.com/user-attachments/assets/94d3e37c-28fc-4260-8a7e-796bf18c7d0e" />
