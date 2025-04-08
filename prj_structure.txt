@@ -1,0 +1,27 @@
+../
+    |--prj_structure.py
+    |--requirements.txt
+    |--prj_structure.txt
+    |--app.py
+    utils/
+        |--methods.py
+        |--API_request.py
+        __pycache__/
+            |--methods.cpython-39.pyc
+            |--API_request.cpython-39.pyc
+    results/
+        |--response.json
+    components/
+        |--components.py
+        __pycache__/
+            |--components.cpython-39.pyc
+        dataSources/
+            |--30587b86-c0dc-4dcf-82b7-805f4fec79b7.xml
+            30587b86-c0dc-4dcf-82b7-805f4fec79b7/
+                storage_v2/
+                    _src_/
+                        schema/
+                            |--main.uQUzAA.meta
+        inspectionProfiles/
+            |--profiles_settings.xml
+            |--Project_Default.xml
