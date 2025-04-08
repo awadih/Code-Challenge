@@ -3,7 +3,7 @@
 Date: 30.07.2022
 
 NOTE: To keep private
-TODO:
+TODO: (View this file in row format to see the files tree)
 xx@xx CodeChallenge % tree
 .
 ├── Infos.md
