@@ -25,9 +25,9 @@ o Köln, München, Berlin
 
 Tipps und Hinweise:
 
-· Wir haben bereits einen API Key für dich erstellt: bea853d469e0444dbe7152331220507
+· Wir haben bereits einen API Key für dich erstellt, dies is als Env variable auf diesem Repo gespeichert.
 
-· Example API Request (einfach mal in den Browser kopieren): o http://api.weatherapi.com/v1/forecast.json?key=API-Key&q=Cologne
+· Example API Request (einfach mal in den Browser kopieren): o http://api.weatherapi.com/v1/forecast.json?key=WEATHER_API_KEY&q=Cologne
 
 · Also Python Bibliotheken zur Einbindung von APIs sind zum Beispiel request oder aiohttp geeignet · API-Dokumentation: https://www.weatherapi.com/docs/
 
